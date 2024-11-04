@@ -6,8 +6,8 @@ gantt
     title Proyecto de Desarrollo
     dateFormat  YYYY-MM-DD
     section Análisis del Problema
-    Análisis del problema       :task1, 2024-11-04, 35d
-    Formulación de preguntas      :task2, after task1, 28d
+    Análisis del problema       :task1, 2024-11-04, 2d
+    Formulación de preguntas      :task2, after task1, 2d
     Realización de entrevista                   :task3, after task2, 70d
     Análisis de la entrevista                :task4, after task3, 28d
     Creación y revisión del "Data Flow Diagram"  :task5, after task1, 49d
