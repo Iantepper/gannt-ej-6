@@ -6,23 +6,25 @@ Programadores (4): $3,000/hora cada uno
 Analista Jr. (1): $2,070/hora + $500 viáticos por día
 trabajo de 8 horas por día
 Cálculo de Costos por Tarea
-A: 2 días * 8 horas/día * 2 analistas * $2,800 = $89,600
-B: 2 días * 8 horas/día * 1 analista * $2,800 = $44,800
-C: 1 día * 8 horas/día * 1 analista * $2,800 = $22,400
-D: 1 día * 8 horas/día * 1 PM * $400,000 = $400,000
-E: 4 días * 8 horas/día * 1 analista * $2,800 = $89,600
-F: 2 días * 8 horas/día * 1 analista Jr. * $2,070 + $500 = $16,920
-G: 2 días * 8 horas/día * 1 DBA * $5,050 = $80,800
-H: 5 días * 8 horas/día * 1 programador * $3,000 = $120,000
-I: 5 días * 8 horas/día * 1 programador * $3,000 = $120,000
-J: 3 días * 8 horas/día * 1 analista Jr. * $2,070 + $500 = $10,720
-K: 1 día * 8 horas/día * 1 analista * $2,800 = $22,400
-L: 3 días * 8 horas/día * 1 programador * $3,000 = $72,000
-M: 2 días * 8 horas/día * 1 analista Jr. * $2,070 + $500 = $10,720
-N: 1 día * 8 horas/día * 1 analista Jr. * $2,070 + $500 = $10,720
-O: 3 días * 8 horas/día * 1 programador * $3,000 = $72,000
-P: 5 días * 8 horas/día * 1 programador * $3,000 = $120,000
-Q: 1 día * 8 horas/día * 1 analista * $2,800 = $22,400
+| Tarea | Descripción                                   | Días | Horas/Día | Cantidad | Tarifa      | Costo Total |
+|-------|-----------------------------------------------|------|-----------|----------|-------------|-------------|
+| A     | Análisis del problema                         | 2    | 8         | 2 analistas | $2,800     | $89,600     |
+| B     | Formulación de preguntas para entrevista      | 2    | 8         | 1 analista | $2,800      | $44,800     |
+| C     | Realización de entrevista a la administración | 1    | 8         | 1 analista | $2,800      | $22,400     |
+| D     | Análisis de la entrevista (necesidades)       | 1    | 8         | 1 PM       | $400,000 fijo | $400,000  |
+| E     | Creación y revisión del "Data Flow Diagram"   | 4    | 8         | 1 analista | $2,800      | $89,600     |
+| F     | Diagrama de procedimiento                     | 2    | 8         | 1 analista Jr. + viáticos | $2,070 + $500 | $16,920 |
+| G     | Creación de Base de Datos                     | 2    | 8         | 1 DBA      | $5,050      | $80,800     |
+| H     | Diseño básico de pantalla de usuarios         | 5    | 8         | 1 programador | $3,000   | $120,000    |
+| I     | Creación manual del sistema                   | 5    | 8         | 1 programador | $3,000   | $120,000    |
+| J     | Pruebas al sistema                            | 3    | 8         | 1 analista Jr. + viáticos | $2,070 + $500 | $10,720 |
+| K     | Presentación a la gerencia                    | 1    | 8         | 1 analista | $2,800      | $22,400     |
+| L     | Realización de cambios (si es necesario)      | 3    | 8         | 1 programador | $3,000   | $72,000     |
+| M     | Presentación a los usuarios                   | 2    | 8         | 1 analista Jr. + viáticos | $2,070 + $500 | $10,720 |
+| N     | Informe de cambios solicitados                | 1    | 8         | 1 analista Jr. + viáticos | $2,070 + $500 | $10,720 |
+| O     | Realización de cambios (si es necesario)      | 3    | 8         | 1 programador | $3,000   | $72,000     |
+| P     | Creación manual de usuario                    | 5    | 8         | 1 programador | $3,000   | $120,000    |
+| Q     | Adiestramiento a usuarios y gerencia          | 1    | 8         | 1 analista | $2,800      | $22,400     |
 
 | Tarea | Recursos Asignados | Horas Totales | Costo ($) |
 |-------|---------------------|---------------|-----------|
