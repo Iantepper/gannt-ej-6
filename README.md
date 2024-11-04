@@ -9,7 +9,7 @@ gantt
     A. Análisis del problema               :task1, 2024-11-04, 2d
     B. Formulación de preguntas             :task2, after task1, 2d
     C. Realización de entrevista             :task3, after task2, 1d
-    D. Análisis de la entrevista            :task4, after task1, after task3, 1d
+    D. Análisis de la entrevista            :task4, after task3, 1d
     E. Creación y revisión del "Data Flow Diagram" :task5, after task4, 4d
     F. Diagrama de procedimiento             :task6, after task5, 2d
     G. Creación de Base de Datos            :task7, after task5, 2d
