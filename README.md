@@ -1,4 +1,4 @@
-# gannt-ej-6
+# gantt-ej-6
 Project Manager (PM): $400,000 (fijo)
 Analistas de Sistemas (2): $2,800/hora cada uno
 DBA (1): $5,050/hora
