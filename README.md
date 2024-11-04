@@ -14,5 +14,5 @@ gantt
     Diagrama de procedimiento    :task6, 2024-11-04, 14d
     Creación de Base de Datos       :task7, after task6, 63d
     Diseño básico de pantalla           :task8, 2024-11-04, 70d
-    Creación manual del sistema           :task9, after task5, after task7, after task8, 56d
+    Creación manual del sistema           :task9, after task5, 56d
 
